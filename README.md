@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hallo, ich bin Imke!
+Willkommen auf meinem Profil! Hier findest du meine Projekte, Experimente und Ideen rund um Softwareentwicklung.
 
-<!--
-**imkehoegden/imkehoegden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 Über mich
+    • 💡 Begeistert von Webentwicklung und Open Source
+    • 🌱 Lerne aktuell mehr über JavaScript
+    • ☕ Kaffee-Fan, manchmal auch Code-Fan ;)
+    • 🎯 Ziel: sauberen, verständlichen und hilfreichen Code schreiben
 
-Here are some ideas to get you started:
+🛠️ Technologien & Tools
+    • Sprachen: HTML, CSS und bald JavaScript
+    • Tools: Git, VS Code, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
