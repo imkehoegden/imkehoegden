@@ -1,10 +1,10 @@
-# 👋 Hi, ich bin Imke!  
+# Hi, ich bin Imke!  
 
 Willkommen auf meinem GitHub-Profil! Hier teile ich meine Projekte, Experimente und Ideen rund um **Softwareentwicklung**.  
 
 ---
 
-## 🧑‍💻 Über mich
+## Über mich
 
 - 💡 Begeistert von **Webentwicklung** und **Open Source**  
 - 🌱 Lerne aktuell **JavaScript**, **TypeScript**, **React** und moderne Frontend-Technologien
@@ -13,7 +13,7 @@ Willkommen auf meinem GitHub-Profil! Hier teile ich meine Projekte, Experimente 
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 **Sprachen & Frameworks:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
@@ -27,7 +27,7 @@ Willkommen auf meinem GitHub-Profil! Hier teile ich meine Projekte, Experimente 
 
 ---
 
-## 📂 Meine Projekte
+## Meine Projekte
 
 - Upcoming: **Portfolio Website** – Persönliches Webportfolio mit **React**, Tailwind CSS und Vite
 - **Fotograf Stefan Schacher** – Portfolio-Website für Leipziger Fotografen Stefan Schacher mit **React**, **Tailwind CSS** und **Vite**
@@ -36,7 +36,7 @@ Willkommen auf meinem GitHub-Profil! Hier teile ich meine Projekte, Experimente 
 
 ---
 
-## ✨ Fun Facts
+## Fun Facts
 
 - Ich liebe es, kleine Experimente mit  **CSS-Animationen** und **interaktiven Features** zu machen.  
 - Außerdem probiere ich gerne neue Technologien aus, z. B. **React Hooks oder Express APIs**  
@@ -44,7 +44,7 @@ Willkommen auf meinem GitHub-Profil! Hier teile ich meine Projekte, Experimente 
 
 ---
 
-## 📫 Kontakt
+## Kontakt
 
 - 💼 LinkedIn: [linkedin.com/in/imke-högden](https://www.linkedin.com/in/imke-h%C3%B6gden-sie-ihr-6746bb3b2/) 
 
