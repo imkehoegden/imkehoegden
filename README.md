@@ -46,7 +46,6 @@ Willkommen auf meinem GitHub-Profil! Hier teile ich meine Projekte, Experimente 
 
 ## 📫 Kontakt
 
-- ✉️ E-Mail: [imke.hoegden@posteo.de](mailto:imke.hoegden@posteo.de)  
 - 💼 LinkedIn: [linkedin.com/in/imke-högden](https://www.linkedin.com/in/imke-h%C3%B6gden-sie-ihr-6746bb3b2/) 
 
 ---
