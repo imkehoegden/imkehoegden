@@ -7,7 +7,7 @@ Willkommen auf meinem GitHub-Profil! Hier teile ich meine Projekte, Experimente 
 ## Über mich
 
 - 💡 Begeistert von **Webentwicklung** und **Open Source**  
-- 🌱 Lerne aktuell **JavaScript**, **TypeScript**, **React** und moderne Frontend-Technologien
+- 🌱 Lerne aktuell **JavaScript**, **TypeScript**, **React**, **Next.js** und moderne Frontend-Technologien
 - ☕ Kaffee-Fan, manchmal auch **Code-Fan 😉**  
 - 🎯 Ziel: **sauberen, verständlichen und hilfreichen Code schreiben**  
 
