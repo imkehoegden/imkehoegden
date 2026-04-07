@@ -29,7 +29,7 @@ Willkommen auf meinem GitHub-Profil! Hier teile ich meine Projekte, Experimente 
 
 ## Meine Projekte
 
-- Upcoming: **Portfolio Website** – Persönliches Webportfolio mit **React**, Tailwind CSS und Vite
+- Upcoming: **Portfolio Website** – Persönliches Webportfolio mit **Next.js**, Tailwind CSS und Vite
 - **Fotograf Stefan Schacher** – Portfolio-Website für Leipziger Fotografen Stefan Schacher mit **React**, **Tailwind CSS** und **Vite**
 - **Alte Schule Bissingen o. L.** – Website für ein Kreativhaus (HTML/CSS/leichtes JS)  
 - **Schlaupause** – Interaktive Lernplattform für Grundschüler:innen (HTML, CSS & umfangreiche JS-Spielelogik)  
