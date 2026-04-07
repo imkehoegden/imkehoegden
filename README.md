@@ -39,8 +39,10 @@ Willkommen auf meinem GitHub-Profil! Hier teile ich meine Projekte, Experimente 
 **Tools & Codequalität:**  
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
+
+**Backend-API Testing:**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Thunderbird](https://img.shields.io/badge/Thunderbird-0078D4?style=for-the-badge&logo=thunderbird&logoColor=white)
+![Thunder Client](https://img.shields.io/badge/Thunder_Client-007ACC?style=for-the-badge&logo=thunderclient&logoColor=white)
 
 **Monitoring:**
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white)
